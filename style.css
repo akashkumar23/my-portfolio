@@ -1,0 +1,22 @@
+body{
+    background-color: lavender;
+}
+
+.container{
+    margin: 50px 50px;
+}
+h1{
+    color: green;
+}
+h3{
+    color: indianred;
+}
+h4{
+    color: royalblue;
+}
+.content{
+    padding: 10px 10px;
+    border: 2px solid rgb(19, 63, 22);
+    border-radius: 20px;
+    background-color: rgba(145, 229, 156, 0.548)
+}
